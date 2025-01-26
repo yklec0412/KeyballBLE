@@ -1,4 +1,4 @@
-name: roBa
+name: KeyballBLE
 build:
   settings:
     board_root: config
