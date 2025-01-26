@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: Dist16384
-      url-base: https://github.com/Dist16384/KeyballBLE.git
+      url-base: https://github.com/Dist16384
   projects:
     - name: zmk
       remote: zmkfirmware
