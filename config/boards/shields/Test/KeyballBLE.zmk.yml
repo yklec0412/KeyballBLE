@@ -2,7 +2,7 @@ file_format: "1"
 id: KeyballBLE
 name: KeyballBLE
 type: shield
-url: https://github.com/kumamuk-git/zmk-config-roBa
+url: https://github.com/Dist16384/KeyballBLE.git
 requires: [seeeduino_xiao_ble]
 features:
   - keys
