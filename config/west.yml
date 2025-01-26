@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: kumamuk-git
-      url-base: https://github.com/kumamuk-git
+    - name: Dist16384
+      url-base: https://github.com/Dist16384/KeyballBLE.git
   projects:
     - name: zmk
       remote: zmkfirmware
