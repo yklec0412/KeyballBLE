@@ -31,6 +31,13 @@
             bindings = <&to 0 &macro_param_1to1 &kp MACRO_PLACEHOLDER>;
             label = "TO_LAYER_0";
         };
+
+        Password: Password {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp LS(Y) &kp U &kp K &kp I &kp N1 &kp N4 &kp N5 &kp N0 &kp LS(Y) &kp U &kp K &kp I &kp N1 &kp N4 &kp N5 &kp N0 &kp DLLR>;
+            label = "PASSWORD";
+        };
     };
 
     behaviors {
